@@ -4,7 +4,7 @@ by Cody ADAM
 
 - [TP1 - Les communes de France](/TP1/TP3-2023.ipynb)
 - [TP2 - Alimentation (Non complet)](/TP2/TP2-DE.ipynb)
-- [Projet](/Project/readme.md)
+- [Projet - Calendrier Universitaire](/Project/readme.md)
 
 
 # Requirements
